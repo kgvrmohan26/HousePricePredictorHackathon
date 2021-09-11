@@ -75,4 +75,4 @@
 
 For more details on Environment setup, please use EnvironmentSetupHelper.txt
 
-Note: This is checked into github : https://github.com/skp1919/HousePricePredictorHackathon/tree/master
+Note: This is checked into github : https://github.com/kgvrmohan26/HousePricePredictorHackathon.git
